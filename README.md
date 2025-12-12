@@ -1,6 +1,6 @@
 # Sensor Metrics Service
 
-A minimal REST API to receive and query sensor metrics.
+A REST API for ingesting and analyzing weather sensor data.
 
 ## Requirements
 
