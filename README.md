@@ -4,7 +4,7 @@ A REST API for ingesting and analyzing weather sensor data.
 
 ## Requirements
 
-- Python 3.8+
+- Python 3.9+ (Tested on 3.12)
 - `pip`
 
 ## Setup
