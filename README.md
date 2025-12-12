@@ -156,7 +156,7 @@ pytest test_main.py
 
 ## Design Notes
 
-- **Architecture**: Single-file FastAPI application (`main.py`) for simplicity and "interview-friendly" review.
+- **Architecture**: Single-file FastAPI application (`main.py`) for simplicity.
 - **Database**: SQLite (file-based `metrics.db`) using SQLAlchemy ORM.
 - **Validation**: 
   - Pydantic models for request/response validation.
