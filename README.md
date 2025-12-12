@@ -11,7 +11,7 @@ A minimal REST API to receive and query sensor metrics.
 
 1. Create a virtual environment (optional but recommended):
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
@@ -25,7 +25,7 @@ A minimal REST API to receive and query sensor metrics.
 Start the server using `uvicorn`:
 
 ```bash
-python main.py
+python3 main.py
 ```
 Or directly with uvicorn:
 ```bash
